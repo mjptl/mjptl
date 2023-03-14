@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mjptl
-- 👀 I’m interested in Ml and IOT ...
-- 🌱 I’m currently learning ML...
+- Code explaines things.
 
 <!---
 mjptl/mjptl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
